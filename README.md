@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm faizan sajid</h1>
-<h3 align="center">| Learning Typescript &Python | Participant in Governor of Pakistan' s Certified Cloud Applied Generative AI Initative</h3>
+<h3 align="center">| Learning Next js &Python | Participant in Governor of Pakistan' s Certified Cloud Applied Generative AI Initative</h3>
 
 - 🌱 I’m currently learning ** Typescript &Python | Generative Ai**
 
