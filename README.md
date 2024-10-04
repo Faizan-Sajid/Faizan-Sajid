@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm faizan sajid</h1>
 <h3 align="center">| Learning Next js &Python | Participant in Governor of Pakistan' s Certified Cloud Applied Generative AI Initative</h3>
 
-- 🌱 I’m currently learning ** Typescript &Python | Generative Ai**
+- 🌱 I’m currently learning ** Next.js &&Python | Generative Ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
